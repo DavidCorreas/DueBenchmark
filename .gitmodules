@@ -1,0 +1,3 @@
+[submodule "evaluator"]
+	path = evaluator
+	url = git@github.com:due-benchmark/evaluator.git
