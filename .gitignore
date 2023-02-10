@@ -1,5 +1,6 @@
 ### Python ###
-data/
+raw_data/
+memmaps/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
